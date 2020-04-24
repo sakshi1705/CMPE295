@@ -1,0 +1,30 @@
+.addButtons{
+  display: flex;
+  margin-top: 150px;
+  justify-content: space-around;
+  
+  
+}
+.Logo{
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/04/48/50/00585a3568a0a7d.jpg")    ;
+  min-height: 100vh;
+  -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+.viewButtons{
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-around;
+  
+}
+.Logo3{
+  background-color : white; 
+  min-height: 100vh;
+  -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
